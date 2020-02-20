@@ -1,2 +1,3 @@
 # DADSA-Animal-Sanctuary
-This repo is for the Animal Sanctuary coursework 
+This program is a project for the animal sanctuary coursework at the University of the west of England
+
