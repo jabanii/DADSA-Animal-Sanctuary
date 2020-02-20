@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="284394a8-a2a2-434d-84eb-458133cb11b6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AnimalSanctuary.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DADSA 2019-20 CWK A TREATMENT.csv" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DADSA 2019-20 CWK A WILD ANIMALS.csv" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pet.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Treatment.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/WildAnimal.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1TW2hhnimPbpktgJohMizxmIqAl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AnimalSanctuary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DADSA2019 paul lassa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AnimalSanctuary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AnimalSanctuary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="284394a8-a2a2-434d-84eb-458133cb11b6" name="Default Changelist" comment="" />
+      <created>1573561651290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573561651290</updated>
+      <workItem from="1573561652680" duration="27771000" />
+      <workItem from="1573833907780" duration="21000" />
+      <workItem from="1573995972768" duration="12050000" />
+      <workItem from="1574168879619" duration="28000" />
+      <workItem from="1574178094283" duration="11082000" />
+      <workItem from="1574246800449" duration="1072000" />
+      <workItem from="1574248982597" duration="12427000" />
+      <workItem from="1574324781241" duration="1317000" />
+      <workItem from="1574332555976" duration="2340000" />
+      <workItem from="1574335836141" duration="31000" />
+      <workItem from="1574335955283" duration="42000" />
+      <workItem from="1576054371962" duration="3497000" />
+      <workItem from="1579859256050" duration="2063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DADSA2019_paul_lassa$AnimalSanctuary.coverage" NAME="AnimalSanctuary Coverage Results" MODIFIED="1576058831626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
